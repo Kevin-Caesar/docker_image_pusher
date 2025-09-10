@@ -5,4 +5,4 @@ xhofe/alist:latest
 python:3.8-slim
 python:3.11-slim
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64 xiaoyaliu/alist
